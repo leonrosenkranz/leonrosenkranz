@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @leonrosenkranz
-- 👀 I’m interested in ML
+- ⚙️ I’m interested in ML
 - 🌱 I’m currently learning Data Science and Web Development
-- 💞️ I’m looking to collaborate on Python Projects 
-- 📫 How to reach me Leon.rosenkranz@tu-dortmund.de
+- 🥇 I’m looking to collaborate on Python Projects 
+- 📫 How to reach me Leon.rosenkranz@outlook.de
 
 <!---
 leonrosenkranz/leonrosenkranz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
