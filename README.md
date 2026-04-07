@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonrosenkranz
-- ⚙️ I’m interested in ML
-- 🌱 I’m currently learning Data Science and Web Development
-- 🥇 I’m looking to collaborate on Python Projects 
+- ⚙️ I’m interested in ML and Consulting
+- 🌱 I’m currently learning Data Analytics with Microsoft Azure
+- 🥇 I’m looking to collaborate on Cloud Architecture Projects 
 - 📫 How to reach me Leon.rosenkranz@outlook.de
 
 <!---
